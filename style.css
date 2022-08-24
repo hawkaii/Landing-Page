@@ -30,10 +30,9 @@ div .top {
 
 div .top-box {
     display: flex;
-    justify-content: center;
     margin-bottom: 200px;
     gap: 24px;
-    
+    margin-left: 400px;
 }
 
 .sign p {
@@ -49,7 +48,7 @@ div .sign {
 
 
 .placeholder img {
-    width: 700px;
+    width: 500px;
     border-radius: 24px;
     border: 1px solid #ddd;
     padding: 5px;
@@ -207,4 +206,4 @@ button {
     height: 100px;
     color: #E5E7EB;
 }
-/*        ---end---        */
+/*---end---*/
