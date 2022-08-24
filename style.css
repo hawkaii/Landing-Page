@@ -30,9 +30,10 @@ div .top {
 
 div .top-box {
     display: flex;
+    justify-content: center;
     margin-bottom: 200px;
     gap: 24px;
-    margin-left: 400px;
+    
 }
 
 .sign p {
